@@ -81,7 +81,7 @@
     right: 5px;
     /*  */
     z-index: -1;
-    background-image:url(img/IMG-20260517-WA0015.jpg) ;
+    background-image:url('IMG-20260517-WA0015.jpg') ;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
